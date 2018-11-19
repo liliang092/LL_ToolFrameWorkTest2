@@ -1,0 +1,6 @@
+framework module LL_ToolFrameWorke {
+  umbrella header "LL_ToolFrameWorke.h"
+
+  export *
+  module * { export * }
+}
